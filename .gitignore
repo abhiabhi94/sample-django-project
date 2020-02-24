@@ -1,0 +1,18 @@
+
+# Don't track content of these folders
+
+# Cached Python Files #
+########################
+**/__pycache__/**
+
+# Binary python files
+*.py[c|o|d]
+
+# database
+db.sqlite3
+
+# assets
+assets/**
+
+# media files
+media/**

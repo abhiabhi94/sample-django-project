@@ -35,3 +35,5 @@
 - The project is now setup. Try to run the development server. If it works well, you may update this README file with your project's description.
 
 - Don't forget to remove .git and reintialise it again using `git init` to keep it track of your project now.
+
+#### This project was setup using Django 3.0.3, python 3.7.5

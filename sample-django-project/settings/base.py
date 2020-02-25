@@ -12,7 +12,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(
 
 ALLOWED_HOSTS = []
 
-SETUP_FILE = './setup.json'
+SETUP_FILE = os.path.join(BASE_DIR, 'setup.json')
 
 
 # Application definition

@@ -1,9 +1,8 @@
 
 # Don't track content of these folders
 
-# Cached Python Files #
-########################
-**/__pycache__/**
+# vscode
+.vscode
 
 # Binary python files
 *.py[c|o|d]

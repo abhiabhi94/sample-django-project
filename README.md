@@ -1,5 +1,7 @@
 ## A sample django project to start with more basic functionalities
 
+A django project setup within minimum time. 
+
 ### Features
 
 - Separate settings for production and development environment. In case, you want to read in detail about this, I wrote an article here: https://www.hackadda.com/post/2020/2/21/separate-your-development-and-production-settings-for-a-django-project
